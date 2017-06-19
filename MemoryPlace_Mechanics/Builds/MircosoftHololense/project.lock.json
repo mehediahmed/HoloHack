@@ -15778,10 +15778,10 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\msftreactornyc\\Documents\\UnityProjects\\MircosoftHololense\\Builds\\MircosoftHololense\\MircosoftHololense.csproj",
+      "projectUniqueName": "C:\\Users\\msftreactornyc\\Documents\\UnityProjects\\Holohack_Mechanics\\MemoryPlace_Mechanics\\Builds\\MircosoftHololense\\MircosoftHololense.csproj",
       "projectName": "MircosoftHololense",
-      "projectPath": "C:\\Users\\msftreactornyc\\Documents\\UnityProjects\\MircosoftHololense\\Builds\\MircosoftHololense\\MircosoftHololense.csproj",
-      "projectJsonPath": "C:\\Users\\msftreactornyc\\Documents\\UnityProjects\\MircosoftHololense\\Builds\\MircosoftHololense\\project.json",
+      "projectPath": "C:\\Users\\msftreactornyc\\Documents\\UnityProjects\\Holohack_Mechanics\\MemoryPlace_Mechanics\\Builds\\MircosoftHololense\\MircosoftHololense.csproj",
+      "projectJsonPath": "C:\\Users\\msftreactornyc\\Documents\\UnityProjects\\Holohack_Mechanics\\MemoryPlace_Mechanics\\Builds\\MircosoftHololense\\project.json",
       "projectStyle": "ProjectJson"
     },
     "dependencies": {

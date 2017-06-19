@@ -1,1 +1,1 @@
-C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\MircosoftHololense.csproj;x86
+C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\MircosoftHololense.csproj;x86

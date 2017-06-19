@@ -32,6 +32,7 @@ namespace HoloToolkit.Unity.SpatialMapping.Tests
             foreach (MeshFilter mesh in GetComponentsInChildren<MeshFilter>())
             {
                 meshData.Add(new PlaneFinding.MeshData(mesh));
+                
             }
 
             // Now call FindPlanes().  NOTE: In a real application, this MUST be executed on a

@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>507dd943-7be6-4572-bcd4-f6d164b87d5f</PackageIdentityName>
     <PackageIdentityPublisher>CN=DefaultCompany</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\obj\x86\Release\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\obj\x86\Release\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\bin\x86\Release\AppX</LayoutDir>
+    <LayoutDir>C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\bin\x86\Release\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\bin\x86\Release\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\bin\x86\Release\MircosoftHololense.exe">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\bin\x86\Release\MircosoftHololense.exe">
       <PackagePath>entrypoint\MircosoftHololense.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\msftreactornyc\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
@@ -349,7 +349,7 @@
     <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineProxy.dll">
       <PackagePath>UnityEngineProxy.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Unprocessed\WinRTLegacy.dll">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Unprocessed\WinRTLegacy.dll">
       <PackagePath>WinRTLegacy.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityPlayer.dll">
@@ -373,110 +373,110 @@
     <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\WinRTBridge.winmd">
       <PackagePath>WinRTBridge.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Resource.res">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Resource.res">
       <PackagePath>Resource.res</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\MicStreamSelector.dll">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\MicStreamSelector.dll">
       <PackagePath>MicStreamSelector.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\SharingClient.dll">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\SharingClient.dll">
       <PackagePath>SharingClient.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\SpatialUnderstanding.dll">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\SpatialUnderstanding.dll">
       <PackagePath>SpatialUnderstanding.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\PlaneFinding.dll">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\PlaneFinding.dll">
       <PackagePath>PlaneFinding.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Data\globalgamemanagers">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Data\level0">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Data\level0">
       <PackagePath>Data\level0</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Data\PlayerConnectionConfigFile">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Data\PlayerConnectionConfigFile">
       <PackagePath>Data\PlayerConnectionConfigFile</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Data\Resources\unity default resources">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Data\Resources\unity_builtin_extra">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Data\globalgamemanagers.assets">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Data\sharedassets0.assets">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Data\level0.resS">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Data\sharedassets0.assets.resS">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Data\managedAssemblies.txt">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Data\nativePlugins.txt">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.15063.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\bin\x86\Release\resources.pri">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\Assembly-CSharp.dll">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\UnityEngine.dll">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\nunit.framework.dll">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\UnityEngine.UI.dll">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\UnityEngine.HoloLens.dll">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\UnityEngine.Networking.dll">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\UnityEngine.VR.dll">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\UnityEngine.VR.dll">
       <PackagePath>UnityEngine.VR.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\MircosoftHololense\Builds\MircosoftHololense\bin\x86\Release\Core\MircosoftHololense.exe">
+    <AppxPackagedFile Include="C:\Users\msftreactornyc\Documents\UnityProjects\Holohack_Mechanics\MemoryPlace_Mechanics\Builds\MircosoftHololense\bin\x86\Release\Core\MircosoftHololense.exe">
       <PackagePath>MircosoftHololense.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
